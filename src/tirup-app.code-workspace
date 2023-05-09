@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "tirup-app",
+			"path": ".."
+		},
+		{
+			"name": "src",
+			"path": "../../../assignment3/Assignment2React/src"
+		}
+	],
+	"settings": {}
+}
